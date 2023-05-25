@@ -4,7 +4,7 @@
 
 This project aims to develop an automated system for segmenting smoking-related cancers in medical images using the U-Net architecture. The system leverages deep learning techniques to accurately identify and localize cancerous regions, providing valuable support to medical professionals in diagnosing and treating smoking-related cancers.
 
-![Cancer Segmentation](https://github.com/Abdokarawia/Smoking-Related-Cancers-Segmentation-Using-Unet/blob/main/images/cancer_segmentation.jpg)
+![Cancer Segmentation](https://github.com/Abdokarawia/Smoking-Related-Cancers-Segmentation-Using-Unet/img.png)
 
 ## Introduction
 
