@@ -22,14 +22,14 @@ Furthermore, early detection and accurate segmentation of smoking-related cancer
 
 The U-Net architecture is a widely used convolutional neural network (CNN) model for image segmentation tasks. It consists of an encoder-decoder structure with skip connections, enabling the model to capture both local and global information effectively. The U-Net architecture has shown excellent performance in various medical image segmentation tasks, making it suitable for our smoking-related cancer segmentation project.
 
-![U-NET](https://github.com/Abdokarawia/Smoking-Related-Cancers-Segmentation-Using-Unet/blob/main/images/cancer_segmentation.jpg)
+![U-NET](https://github.com/Abdokarawia/Smoking-Related-Cancers-Segmentation-Using-Unet/blob/main/Unet.png)
 
 
 ## ConvNext
 
 ConvNext is a custom network component developed as part of this project. It combines convolutional and residual blocks to enhance feature extraction capabilities and improve the overall performance of the U-Net model. By integrating ConvNext into the U-Net architecture, we aim to achieve better segmentation results for smoking-related cancers.
 
-![ConvNext](https://github.com/Abdokarawia/Smoking-Related-Cancers-Segmentation-Using-Unet/blob/main/images/cancer_segmentation.jpg)
+![ConvNext](https://github.com/Abdokarawia/Smoking-Related-Cancers-Segmentation-Using-Unet/blob/main/ConvNext.png)
 
 
 ## Results
