@@ -42,7 +42,7 @@ The trained model achieved promising results in segmenting smoking-related cance
 
 To provide an intuitive and user-friendly interface for utilizing the trained model, we have developed a Flutter-based mobile application. The app allows users to upload medical images, apply the segmentation model, and visualize the segmented regions. This mobile app enables easy access to the segmentation functionality, facilitating the integration of the proposed system into clinical workflows.
 
-![Flutter](https://github.com/Abdokarawia/Smoking-Related-Cancers-Segmentation-Using-Unet/blob/main/images/flutter.jpg)
+![Flutter](https://github.com/Abdokarawia/Smoking-Related-Cancers-Segmentation-Using-Unet/blob/main/Cancerapy.png)
 
 
 
